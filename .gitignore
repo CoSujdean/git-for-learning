@@ -1,0 +1,6 @@
+#Ignore all the text files including .c files in the sub-directories
+*.c
+
+#But do not ignore the file in the root directory or mentioned file
+!firstProgram.c
+
